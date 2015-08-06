@@ -31,6 +31,6 @@ INSTALL_RECEIPT.json
 # Ignore VirtualEnv
 venv/*
 
-# Ignore depends and crits_services directory
-depends
-crits_services
+# Ignore dependencies and crits_services directory
+dependencies/
+crits_services/
